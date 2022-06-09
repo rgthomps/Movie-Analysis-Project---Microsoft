@@ -20,7 +20,7 @@ After analysis, our team will provide budget, genre, and release date recommenda
 
 ## DATA ANALYSIS
 
-![Screenshot](popularity_by_genre.png)
+![Image](popularity_by_genre.png)
 
 
 
