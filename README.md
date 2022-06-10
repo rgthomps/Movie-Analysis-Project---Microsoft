@@ -12,22 +12,27 @@
 After analysis, our team will provide budget, genre, and release date recommendations based on the results of our research.
 
 ## DATA UNDERSTANDING
+Data Sources 
+The Movie Database - The Movie Database (TMDB) is a community built movie and TV database. Every piece of data has been added by the community dating back to 2008. TMDb's strong international focus and breadth of data is largely unmatched. We will use their database to compare movie popularity in relation to both release date and genre. 
 
-
-
-
+The Numbers - The Numbers was launched by Bruce Nash on October 17th, 1997 as a free resource for industry professionals, the investment community, and movie fans to track business information on movies. The site has grown to become the largest freely-available database of movie business information on the web. The Numbers now brings information on over 50,000 movies and nearly 200,000 people to the broadest audience possible. 
 
 
 ## DATA ANALYSIS
 
+Production Budget/Worldwide Gross Correlation
+
+The first two sets of data we focused on were worldwide gross and production budget. Our goal with these two data sets was to see what the correlation between the two was or if there was one. What we found is that there was a general positive correlation between the two, especially around a budget of $500,000,000 or greater. Obviously, this grand quantity of money is difficult for most people or groups of people to come by and therefore we observed that most movies won’t see extraordinary results as more money in a movie budget equals a greater chance for extraordinary results. 
+
+Popularity By Genre
+
+We used TMDB’s formula regarding popularity to create a metric for our visual to discern which movie genres have been the most popular recently. This formula is comprised of:  Number of votes for the day, Number of views for the day, Number of users who marked it as a "favourite" for the day, Number of users who added it to their "watchlist" for the day, Release date, Number of total votes, and Previous days score. What we found is that adventure, action, and fantasy are the three most popular movie genres by a relatively considerable margin, and therefore we garner that a new streaming platform should target at least one or more of these genres in order to increase the odds of their pilot movie or series to be popular.
+
 ![Image](popularity_by_genre.png)
 
+Best Month to Release a Movie 
 
-
-
-
-
-
+As the title denotes, our final visual centered around the best month to release a movie in regards to popularity. We found that movies were most popular in the summer and around the holidays in December. We hypothesize that this is due to kids being out of school during the summer as well as being on Christmas break during the month of December. Due to this popularity of movies, we actually decided that for a streaming service to have the best chance to succeed the streaming service would be best suited to release in January as movie theatres would not be nearly as popular, therefore the opportunity would be present in January to fill that void. 
 
 ## CONCLUSION
 Based on the results of our research, we recommend An Adventurous Action Film that takes place in a Fantasy World with A budget >= $500,000,000 set to release in January. 
